@@ -19,6 +19,8 @@ body {
   display: flex;
   width: 50%;
   margin: auto;
+  height: 60vh;
+  align-items: center;
 
 }
 
