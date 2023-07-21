@@ -1,6 +1,11 @@
 body {
   text-align: center;
   background-color: #011F3F;
+
+}
+
+.disable-dbl-tap-zoom {
+  touch-action: manipulation;
 }
 
 #level-title {
@@ -11,11 +16,9 @@ body {
 }
 
 .container {
-    display: flex;
-    width: 50%;
-    margin: auto;
-    height: 60vh;
-    align-items: center;
+  display: flex;
+  width: 50%;
+  margin: auto;
 
 }
 
