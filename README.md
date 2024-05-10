@@ -1,2 +1,2 @@
 # simonGame
-<h2>a game</h2>
+<h2>a game </h2>
